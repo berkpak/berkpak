@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Berk Pak</h1>
 
-<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
+<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" align="center">
 
 - 🌱 I’m currently learning **JavaScript, React**
 
