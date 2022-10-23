@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Berk Pak</h1>
-img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Foutlane.co%2Fnow%2Fnew-shot-programmer-animation%2F&psig=AOvVaw32me2DH0Sxp55z612AoB-y&ust=1666613902066000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCIix9N6q9voCFQAAAAAdAAAAABAZ"
+img align="right" alt="Coding" width="400" src="https://outlane.co/now/new-shot-programmer-animation/"
+
 - 🌱 I’m currently learning **JavaScript, React**
 
 - 📫 How to reach me **pakkberk@gmail.com**
