@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Berk Pak</h1>
-![giphy](https://user-images.githubusercontent.com/96004963/197393000-2f948a65-b64a-4cfb-8cb4-0430eccf32d9.gif)
 
 
 - 🌱 I’m currently learning **JavaScript, React**
