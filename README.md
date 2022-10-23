@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Berk Pak</h1>
-<img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/looneytunesworldofmayhem-world-of-mayhem-looney-tunes-ltwom-RbDKaczqWovIugyJmW">
+<img align="right" alt="Coding" width="400" src="<iframe src="https://giphy.com/embed/RbDKaczqWovIugyJmW" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/looneytunesworldofmayhem-world-of-mayhem-looney-tunes-ltwom-RbDKaczqWovIugyJmW">via GIPHY</a></p>">
 
 - 🌱 I’m currently learning **JavaScript, React**
 
