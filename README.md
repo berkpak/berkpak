@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Berk Pak</h1>
-<img align="right" alt="Coding" width="400" src="https://outlane.co/now/new-shot-programmer-animation/">
+<img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/looneytunesworldofmayhem-world-of-mayhem-looney-tunes-ltwom-RbDKaczqWovIugyJmW">
 
 - 🌱 I’m currently learning **JavaScript, React**
 
