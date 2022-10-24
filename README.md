@@ -2,11 +2,12 @@
 
 <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" align="right">
 
+- I really enjoy learning languages and frameworks like React and JavaScript.
+
 - 🌱 I’m currently learning **JavaScript, React**
 
 - 📫 How to reach me **pakkberk@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
